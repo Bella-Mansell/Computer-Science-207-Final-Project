@@ -1,5 +1,7 @@
 # Computer Science 207 Final Project [Version 1]
 
+When the program is uploaded, or the arduino is restarted, a number between 1 and 4 is randomly chosen.
+Each number corresponds to an RGB LED hue, and an audio clip.
 
 Repository Contents
 ============
@@ -24,7 +26,10 @@ Bill of Materials:
 Build Instructions
 ==================
 
-Here is where you give specific instructions about how the device is built. The more detail the better -- especially if your build is very complicated. Here you should include schematics of your build: 
+ The Circuit:
+    - Red, green and blue pins of the RGB LED attatched to pins 11, 10, and 9. The remaining pin is connected to ground.
+    - Pins 0-2 are connected to an R/2R ladder.
+    - The audio is listened to through headphones by using paperclips connected to the circuit and to ground.
 
 ![alt text][pic2]
 
@@ -59,6 +64,10 @@ This is usually where you tell the user how the device works. Do you just upload
 * The thing will do a thing and it'll be really cool. 
 * Don't forget to feed the badgers!
 
+Team
+=====
+The build team consists of: 
+* Anabella Mansell - I worked independently on this project.
 
 Credits
 =======

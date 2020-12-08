@@ -1,6 +1,6 @@
 Repository Contents
 
-/src
+* **/src**
 /hardware
 /img
 /LICENSE

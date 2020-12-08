@@ -28,7 +28,7 @@ Build Instructions
 
  The Circuit:
  * Red, green and blue pins of the RGB LED attatched to pins 11, 10, and 9. The remaining pin is connected to ground.
- * Pins 0-2 are connected to an R/2R ladder.
+ * Pins 0-3 are connected to an R/2R ladder.
  * The audio is listened to through headphones by using paperclips connected to the circuit and to ground.
 
 ![alt text][pic2]
@@ -57,7 +57,7 @@ Schematic Diagram with headphones and paperclips
 
 Usage
 =====
-This is usually where you tell the user how the device works. Do you just upload the software and flip a switch? What sort of things does this thing do? Are there alternate settings / modes / programs that might be good to mention. This is where you tell the user exactly how the device or program is used. For example: 
+When the program is uploaded, or the arduino is restarted, a number between 1 and 4 is randomly chosen. Each number corresponds to an RGB LED hue, and an audio clip.
 
 * Upload the code to the thing. 
 * Turn the thing on. 

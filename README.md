@@ -4,10 +4,10 @@ This program assigns a person their "Hogwarts House" by turning on the RGB LED t
 
 When the program is uploaded, or the arduino is restarted, a number between 1 and 4 is randomly chosen. Each number corresponds to an RGB LED hue, and an audio clip.
 
-When the number 1 is chosen, the LED displays the colour red, and plays a sound clip of Professor McGonogall saying "Gryffindor."
-When the number 2 is chosen, the LED displays the colour blue, and plays a sound clip of Professor McGonogall saying "Ravenclaw."
-When the number 3 is chosen, the LED displays the colour green, and plays a sound clip of Professor McGonogall saying "Slytherin."
-When the number 4 is chosen, the LED displays the colour yellow, and plays a sound clip of Professor McGonogall saying "Hufflepuff."
+* When the number 1 is chosen, the LED displays the colour red, and plays a sound clip of Professor McGonogall saying "Gryffindor."
+* When the number 2 is chosen, the LED displays the colour blue, and plays a sound clip of Professor McGonogall saying "Ravenclaw."
+* When the number 3 is chosen, the LED displays the colour green, and plays a sound clip of Professor McGonogall saying "Slytherin."
+* When the number 4 is chosen, the LED displays the colour yellow, and plays a sound clip of Professor McGonogall saying "Hufflepuff."
 
 Repository Contents
 ============

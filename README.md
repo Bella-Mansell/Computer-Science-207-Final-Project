@@ -17,8 +17,8 @@ Repository Contents
 ============
 
 * **/hardware**
-* **/src**
 * **/img**
+* **/src**
 * **/LICENSE**
 * **/README.md**
 

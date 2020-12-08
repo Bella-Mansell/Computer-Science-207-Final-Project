@@ -55,3 +55,10 @@ This is usually where you tell the user how the device works. Do you just upload
 * Turn the thing on. 
 * The thing will do a thing and it'll be really cool. 
 * Don't forget to feed the badgers!
+
+
+Credits
+=======
+
+* Manonv5. (2017). Harry Potter Sorting Hat With Arduino. Retrieved 14 October 2020, from https://www.instructables.com/Harry-Potter-Sorting-Hat-With-Arduino/?fbclid=IwAR0VbFdmSs7ZAPbZoTzu-Dxpyui6FYo0nPO8zcn4KAg0Hyj1THluBF9whpU
+* Project Hub. Arduino RGB LED Tutorial. Retrieved 29 November 2020, from https://create.arduino.cc/projecthub/muhammad-aqib/arduino-rgb-led-tutorial-fc003e

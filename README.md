@@ -30,7 +30,7 @@ Here is where you give specific instructions about how the device is built. The 
 
 [pic2]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Breadboard%20With%20Headphones.jpg
 
-Schematic Diagram with headphones and paperclips
+Breadboard Diagram with headphones and paperclips
 
 ![alt text][pic3]
 

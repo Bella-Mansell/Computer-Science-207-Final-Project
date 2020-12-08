@@ -30,22 +30,25 @@ Here is where you give specific instructions about how the device is built. The 
 
 [pic2]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Breadboard%20With%20Headphones.jpg
 
-And a breadboard view is also a good idea. It gives the potential user a better idea of how to put the thing together. So we'll throw one in here as well. 
+Schematic Diagram with headphones and paperclips
 
 ![alt text][pic3]
 
 [pic3]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Breadboard%20With%20Piezo%20Speaker.jpg
 
+Breadboard diagram with Piezo Speaker instead of headphones and paperclips.
+
 ![alt_text][pic4]
   
 [pic4]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Schematic%20With%20Headphones.jpg
+
+Schematic Diagram with Piezo Speaker instead of headphones and paperclips
 
 ![alt_text][pic5]
   
 [pic5]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Schematic%20With%20Piezo%20Speaker.jpg
 
-
-If there are any special instructions on how to assemble the hardware, we should note it here as well. For example, if the user should solder things in a specific order, you should give them a heads-up. 
+Schematic Diagram with headphones and paperclips
 
 Usage
 =====

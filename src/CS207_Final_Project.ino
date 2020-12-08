@@ -9,7 +9,7 @@
     The Circuit:
     - Red, green and blue pins of the RGB LED attatched to pins 11, 10, and 9.
     The remaining pin is connected to ground.
-    - Pins 0-2 are connected to an R/2R ladder.
+    - Pins 0-3 are connected to an R/2R ladder.
     - The audio is listened to through headphones by using paperclips connected
     to the circuit and to ground.
 

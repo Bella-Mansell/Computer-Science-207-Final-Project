@@ -57,13 +57,13 @@ Breadboard diagram with Piezo Speaker instead of headphones and paperclips.
   
 [pic4]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Schematic%20With%20Headphones.jpg
 
-Schematic Diagram with Piezo Speaker instead of headphones and paperclips
+Schematic Diagram with headphones and paperclips
 
 ![alt_text][pic5]
   
 [pic5]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Schematic%20With%20Piezo%20Speaker.jpg
 
-Schematic Diagram with headphones and paperclips
+Schematic Diagram with Piezo Speaker instead of headphones and paperclips
 
 Usage
 =====

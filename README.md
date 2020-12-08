@@ -16,8 +16,8 @@ When the program is uploaded, or the arduino is restarted, a number between 1 an
 Repository Contents
 ============
 
-* **/src**
 * **/hardware**
+* **/src**
 * **/img**
 * **/LICENSE**
 * **/README.md**

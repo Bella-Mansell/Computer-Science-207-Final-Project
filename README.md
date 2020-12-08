@@ -9,6 +9,10 @@ When the program is uploaded, or the arduino is restarted, a number between 1 an
 * When the number 3 is chosen, the LED displays the colour green, and plays a sound clip of Professor McGonogall saying "Slytherin."
 * When the number 4 is chosen, the LED displays the colour yellow, and plays a sound clip of Professor McGonogall saying "Hufflepuff."
 
+![alt text][pic1]
+
+[pic1]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Final%20Project%20Set-Up%20-%20With%20Headphones.jpg
+
 Repository Contents
 ============
 

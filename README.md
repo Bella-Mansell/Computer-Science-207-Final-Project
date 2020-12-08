@@ -1,6 +1,6 @@
 # Computer Science 207 Final Project [Version 1]
 
-This program assigns a person their "Hogwarts House" by turning on the RGB LED to a specific hue, and playing a specific sound clip on a loop. 
+This program assigns a person their "Hogwarts House" by displaying a specific hue on the RGB LED, and playing a specific sound clip on a loop. 
 
 When the program is uploaded, or the arduino is restarted, a number between 1 and 4 is randomly chosen. Each number corresponds to an RGB LED hue, and an audio clip.
 

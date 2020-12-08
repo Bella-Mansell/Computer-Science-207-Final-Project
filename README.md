@@ -1,7 +1,8 @@
 Repository Contents
+============
 
 * **/src**
-/hardware
-/img
-/LICENSE
-/README.md
+* **/hardware**
+* **/img**
+* **/LICENSE**
+* **/README.md**

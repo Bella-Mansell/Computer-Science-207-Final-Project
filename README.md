@@ -69,6 +69,9 @@ Usage
 =====
 When the program is uploaded, or the arduino is restarted, a number between 1 and 4 is randomly chosen. Each number corresponds to an RGB LED hue, and an audio clip.
 
+* To find out your "Hogwarts House" upload the code to the arduino. 
+* For alternative results, reset the arduino to receive another house.
+
 Team
 =====
 The build team consists of: 

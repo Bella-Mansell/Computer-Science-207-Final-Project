@@ -34,11 +34,15 @@ And a breadboard view is also a good idea. It gives the potential user a better 
 
 ![alt text][pic3]
 
-[pic3]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img3.jpg "Logo Title Text 2"
+[pic3]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Breadboard%20With%20Piezo%20Speaker.jpg
 
 ![alt_text][pic4]
   
-[pic4]: https://github.com/trevortomesh/OSHRepo/blob/master/folderName/joystick.png "This is some alt text"
+[pic4]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Schematic%20With%20Headphones.jpg
+
+![alt_text][pic5]
+  
+[pic5]: https://github.com/Bella-Mansell/Computer-Science-207-Final-Project/blob/main/img/Schematic%20With%20Piezo%20Speaker.jpg
 
 
 If there are any special instructions on how to assemble the hardware, we should note it here as well. For example, if the user should solder things in a specific order, you should give them a heads-up. 

@@ -59,11 +59,6 @@ Usage
 =====
 When the program is uploaded, or the arduino is restarted, a number between 1 and 4 is randomly chosen. Each number corresponds to an RGB LED hue, and an audio clip.
 
-* Upload the code to the thing. 
-* Turn the thing on. 
-* The thing will do a thing and it'll be really cool. 
-* Don't forget to feed the badgers!
-
 Team
 =====
 The build team consists of: 
